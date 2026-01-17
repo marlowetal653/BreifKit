@@ -1388,7 +1388,7 @@ def version():
 
     # Fetch latest template release version from fork
     repo_owner = "marlowetal653"
-    repo_name = "innovhack"
+    repo_name = "briefkit"
     api_url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/releases/latest"
     
     template_version = "unknown"
